@@ -1,0 +1,213 @@
+body{ 
+        background-color: #EAE7DC;
+		width: 100%;
+		height: 100%;
+}
+	#mainpage{
+		width: 100%;
+		height: 100%;
+		background-color: #EAE7DC;
+		margin-left: 0px;
+		padding: 0px;
+		position: relative;
+		background-color: #EAE7DC;
+	}
+	
+	.main-header{
+		font-family: Quicksand;
+        color: white;
+        background-color: #D8C3A5;
+        width:100%;
+	}
+		
+	#navbar{
+		padding-left:800px;
+		color: white;
+		background-color: #D8C3A5;
+		font-size: 15pt;
+		height: 50px;
+		width: 100%;
+		font-family: Quicksand;
+		margin-left: -4px;
+	}	
+	
+	#button:link,#button:visited,#button:active{
+		color: white;
+		background-color: #D8C3A5;
+		text-decoration: none;
+		padding: 15px;
+		text-align: center;
+		display: inline-block;
+		font-family: Quicksand;
+	}
+		
+	#button:hover {
+		color: white;
+		text-decoration: none;
+		padding:15px;
+		text-align: center;
+		display: inline-block;
+		font-family: Quicksand;
+	}
+	
+	#bodypage{
+		color: #8E8D8;
+		display: block;
+		text-align: center;
+		font-family: Quicksand;
+		font-size: 15pt;
+		font-style: bold;
+	}
+	
+	#picturelinks1{
+		position: absolute;
+		top: 270px; 
+		left: -460px;
+		font-family: Helvetica;
+		font-size: 10pt;
+		color: #E98074;
+		text-align: center;
+	}
+	
+	#picturelinks2{
+		position: absolute;
+		top: 270px;
+		left: -100px;
+		font-family: Helvetica;
+		font-size: 10pt;
+		color: #E98074;
+		text-align: center;
+	}
+	
+	#picturelinks3{
+		position: absolute;
+		top: 270px;
+		left: 270px;
+		font-family: Helvetica;
+		font-size: 10pt;
+		color: #E98074;
+		text-align: center;
+	}
+	}
+	
+	#picturelinks4{
+		position: absolute;
+		top: 270px;
+		left:625px;
+		font-family: Helvetica;
+		font-size: 10pt;
+		color: #E98074;
+		text-align: center;
+		max-width: 12%;
+		max-height: 17%;
+	}
+		
+	#picturelinks5{
+		position: absolute;
+		top: 620px;
+		left: 27px;
+		font-family: Helvetica;
+		font-size: 10pt;
+		color: #E98074;
+		text-align: center;
+	}
+	
+		
+	#picturelinks6{
+		position: absolute;
+		top: 620px;
+		left: 815px;
+		font-family: Helvetica;
+		font-size: 10pt;
+		color: #E98074;
+		text-align: center;
+	}
+	
+	#essay-title{
+		text-align: center;
+		font-family: Quicksand;
+		font-size: 15pt;
+		color: #E8584F;
+	}
+	
+	#essay-writer{
+		text-align: center;
+		font-family: Helvetica;
+		font-size: 9pt;
+		color: #E8584F;
+		font-style: italic;
+	}
+	
+	#essay{
+		text-align: justify;
+		font-family: Helvetica;
+		font-size: 14pt;
+		color: #8E8D8A;
+		font-weight: 650pt;
+		text-indent: 50px;
+		margin: 10pt;
+	}
+	
+	
+	#picturelinks7{
+		font-family: Helvetica;
+		font-size: 10pt;
+		color: #E98074;
+		text-align: center;
+	}
+		
+	#titleauthor{
+		font-family: Quicksand;
+		font-size: 25pt;
+		color: #E85A4F;
+		text-align: center;
+		margin: 10pt;
+	}
+	
+	#bodyauthor{
+		font-family: Helvetica;
+		font-size: 15pt;
+		color: #8E8D8A;
+		text-align: justify;
+		font-weight: 650pt;
+		text-indent: 50pt;
+		margin: 10pt;
+	}
+	
+	#filler{
+		color:#D8C3A5;
+	}
+	
+	.navbar{
+		width:100%;
+	}
+	.links{
+		width:25%;
+		text-align:center;
+	}
+	.links1{
+		text-align:center;
+		color:#D8C3A5; 
+	}
+	
+	.content{
+    width:100%;
+    text-align:center;
+	font-family: Helvetica;
+	font-size: 10pt;
+	color: #E98074;
+	text-align: center;
+    white-space: nowrap;
+    }
+	
+    .contents{
+    width:50%;
+    text-align:center;
+	font-family: Helvetica;
+	font-size: 10pt;
+	color: #E98074;
+	text-align: center;
+	white-space: nowrap;
+    }
+	
+	
